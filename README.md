@@ -23,6 +23,7 @@ Labels objects in PrusaSlicer to make it available with the [M486 gcode](https:/
       - Linux/MacOS: Enter the full path to the ".ps1" file. Ensure the file is executable.
    - Select "label objects"
    - Don't forget to click "Save"
+   - Note: This feature is **not** compatible with "Wipe into infill"
 
 ![PrusaSlicer screenshot](docs/prusaslicer.png)
 

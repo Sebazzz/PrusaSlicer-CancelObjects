@@ -12,7 +12,7 @@ Labels objects in PrusaSlicer to make it available with the [M486 gcode](https:/
 
 ## Installation
 
-1. Download the [ZIP file](archive/refs/heads/master.zip) via the "Code -> Download ZIP" option.
+1. Download the [ZIP file](https://github.com/Sebazzz/PrusaSlicer-CancelObjects/archive/refs/heads/master.zip) via the "Code -> Download ZIP" option.
 
 2. Install [Powershell 7.1 or higher](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7.1#powershell)
    - On Windows 10 this is not required, but still recommended

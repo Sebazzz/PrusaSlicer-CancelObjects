@@ -7,8 +7,8 @@ Labels objects in PrusaSlicer to make it available with the [M486 gcode](https:/
 1. Install the script and run it as a post processing script
 
 2. Then:
- - Access it through MarlinUI
- - Or use [Octoprint Cancel Objects](https://plugins.octoprint.org/plugins/cancelobject/) plugin
+    - Access it through MarlinUI
+    - Or use [Octoprint Cancel Objects](https://plugins.octoprint.org/plugins/cancelobject/) plugin
 
 ## Installation
 
